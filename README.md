@@ -7,7 +7,7 @@ This is my web scraping project for gathering data on my University's Senior Res
 
     - Shop's Characteristics
     
-        * Shop_Name, Shop Rating Counts, Shop Score, Shop Followers, Shop Product Variation, Shop Response Rate, Shop Response time, Shop_Location and Shop Joined Date
+        * Shop Name, Shop Rating Counts, Shop Score, Shop Followers, Shop Product Variation, Shop Response Rate, Shop Response time, Shop Location and Shop Joined Date
   
     - Product's Characteristics
         
