@@ -1,7 +1,7 @@
 # shopee_webscraping
 ## Python Automated Shopee Web Scraping Script
 
-This is my web scraping project for gathering data on my University's Senior Research. Feel free to check it out !! 
+This is my web scraping project for gathering data on my University's Senior Research. I used this script to scrape about 700 rows of information with 17 distinct categories.
 
 - It includes scraping:
 
@@ -14,5 +14,11 @@ This is my web scraping project for gathering data on my University's Senior Res
         * Product Name, Product Price, Quantity Sold, Product Score, Product Rating Counts, Product Favourite Counts by User and Product Comments
         
     - Link to each product
-    
+ 
+Feel free to check it out !! 
 Thank you :D
+
+### Notice
+I divided into 3 main parts
+
+Part 3 was coded in a hurry due to the limited amount of time. So, it will have lots of rooms for improvements, but it is functional.
